@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '32891'
     url: http://www.gutenberg.org/2009/agents/32891
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41789#Diario-de-la-expedicion-de-1822-a-los-campos-del-sud-de-Buenos-AiresDesde-Moron-hasta-la-Sier_
 gutenberg_issued: '2013-01-06'
 gutenberg_type: Text
 identifiers:
